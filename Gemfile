@@ -15,6 +15,7 @@ gem 'pg', group: :production
 gem 'carrierwave'
 gem 'fog'
 gem 'figaro'
+gem 'mini_magick'
 group :development, :test do
   gem 'byebug'
   gem 'web-console', '~> 2.0'
